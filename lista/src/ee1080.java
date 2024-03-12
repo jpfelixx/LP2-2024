@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class e1080 {
+public class ee1080 {
     
 
     public static void main(String[] args) {
@@ -27,7 +27,7 @@ public class e1080 {
                   if(vetor[i]<vetor[j+1])
                   {
                     menor = vetor[i];
-                    position = i; // no se o que fazeee =(
+                    position = i; // no se o que fazeee ainda =(
                   }
                   
             }                   
